@@ -1,2 +1,2 @@
 # Guard-And-Thief
-Prototype two-player hiding-in-plain-sight game
+Two-player hiding-in-plain-sight AI proof of concept
